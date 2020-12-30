@@ -1,7 +1,17 @@
-### Hi there 👋
+
+# Hi there. 👋 
+
+
+#  My name is Ore and I'm primarily a cross-platform mobile (React Native) developer.
+
+
+ ![](https://github.com/OreAkintobi/oreakintobi.github.io/blob/master/assets/header.png?raw=true) 
+
+
+[![](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=oreakintobi&#64;gmail.com) [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oreakintobi) [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oreakintobi)
+
 
 <!--
-**OreAkintobi/OreAkintobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

@@ -2,7 +2,7 @@
 # Hi there. 👋 
 
 
-#  My name is Ore and I'm a cross-platform mobile (React Native) developer.
+#  My name is Ore and I'm (mostly) a cross-platform mobile (React Native) developer.
 
 
  ![](https://github.com/OreAkintobi/oreakintobi.github.io/blob/master/assets/header.png?raw=true) 
